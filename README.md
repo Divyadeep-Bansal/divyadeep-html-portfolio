@@ -1,2 +1,2 @@
 # html-portfolio
-just starting out on web dev bootcamp by Dr Angela Wu.
+just starting out on web development bootcamp by Dr Angela Yu on udemy.
